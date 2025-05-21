@@ -1,5 +1,5 @@
 streamlit
+transformers==4.37.2
 torch
-transformers
 scikit-learn
 joblib
